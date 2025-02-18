@@ -15,7 +15,7 @@ Mon parcours m’a permis de développer une expertise en **gestion et analyse d
 📍 **Urbanisme et analyse spatiale des centres commerciaux en France**  
 
 ## 📬 Contact & Réseaux
-📧 Email : oumoumalikasidibe@gmail.com  
+📧 Email :   
 💼 GitHub : [malika2859](https://github.com/malika2859)  
 
 ✨ **Toujours à la recherche de défis passionnants en SIG et data science !** 🚀
