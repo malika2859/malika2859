@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon GitHub !  
 
-<!--
-**malika2859/malika2859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis **Malika Oumou Sidibé**, passionnée par **la géomatique, la data science et l’analyse spatiale**.  
+Mon parcours m’a permis de développer une expertise en **gestion et analyse de données géospatiales, SIG, télédétection et modélisation statistique**.
 
-Here are some ideas to get you started:
+## 🔥 Ce que je fais :
+- 🌍 **Analyse et visualisation de données géospatiales**  
+- 🛰️ **SIG, cartographie et géostatistique**  
+- 💡 **Urbanisme durable & Intelligence territoriale**  
+- 🛠️ **Python, R, PostGIS, MySQL, ArcGIS, QGIS**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **Projets récents :**
+📊 **Modélisation et cartographie du réseau électrique (ENEDIS, EDF)**  
+🔎 **Études SIG pour l’électrification des zones rurales en Côte d’Ivoire**  
+📍 **Urbanisme et analyse spatiale des centres commerciaux en France**  
+
+## 📬 Contact & Réseaux
+📧 Email : oumoumalikasidibe@gmail.com  
+💼 GitHub : [malika2859](https://github.com/malika2859)  
+
+✨ **Toujours à la recherche de défis passionnants en SIG et data science !** 🚀
